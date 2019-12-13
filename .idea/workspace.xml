@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="408aa9c8-d838-4de6-a751-6aaaf58b6115" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testNet/TestInet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testNet/TestString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/common/util/CheckUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/common/util/CheckUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/common/util/CheckUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/common/util/CheckUtilsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/common/util/CheckUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/common/util/CheckUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/common/util/CheckUtilsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/common/util/CheckUtilsTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -13,25 +21,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="java_common_tools" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/common/util/CheckUtilsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+            <state relative-caret-position="336">
+              <caret line="44" column="3" selection-start-line="44" selection-start-column="3" selection-end-line="44" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,7 +40,28 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/common/util/CheckUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="68" column="28" lean-forward="true" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="41" column="39" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -52,10 +74,35 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/common/util/CheckUtils.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testNet/TestInet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+            <state relative-caret-position="297">
+              <caret line="171" column="9" lean-forward="true" selection-start-line="171" selection-start-column="9" selection-end-line="171" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/net/Socket.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4853">
+              <caret line="242" column="29" selection-start-line="242" selection-start-column="18" selection-end-line="242" selection-end-column="29" />
+              <folding>
+                <element signature="e#1829#1830#0" expanded="true" />
+                <element signature="e#1854#1855#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testNet/TestString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="79" column="46" lean-forward="true" selection-start-line="79" selection-start-column="46" selection-end-line="79" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -69,17 +116,27 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\projects\java_common_tools\src\test</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/common/util/CheckUtils.java" />
-        <option value="$PROJECT_DIR$/src/test/java/common/util/CheckUtilsTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/common/util/CheckUtils.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/testNet/TestInet.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testNet/TestString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/common/util/CheckUtils.java" />
+        <option value="$PROJECT_DIR$/src/test/java/common/util/CheckUtilsTest.java" />
       </list>
     </option>
   </component>
@@ -102,7 +159,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -125,12 +181,55 @@
               <item name="java_common_tools" type="b2602c69:ProjectViewProjectNode" />
               <item name="java_common_tools" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_common_tools" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_common_tools" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_common_tools" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_common_tools" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_common_tools" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_common_tools" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_common_tools" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_common_tools" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_common_tools" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_common_tools" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testNet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_common_tools" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -140,7 +239,10 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -154,8 +256,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.CheckUtilsTest.testIsEmpty">
-    <configuration name="CheckUtilsTest.testIsAnyEmpty" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.CheckUtilsTest.equals字符串">
+    <configuration name="CheckUtilsTest.equals" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="java_common_tools" />
       <extension name="coverage">
         <pattern>
@@ -165,7 +267,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="common.util" />
       <option name="MAIN_CLASS_NAME" value="common.util.CheckUtilsTest" />
-      <option name="METHOD_NAME" value="testIsAnyEmpty" />
+      <option name="METHOD_NAME" value="equals" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -173,7 +275,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckUtilsTest.testIsEmpty" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CheckUtilsTest.equals字符串" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="java_common_tools" />
       <extension name="coverage">
         <pattern>
@@ -183,7 +285,61 @@
       </extension>
       <option name="PACKAGE_NAME" value="common.util" />
       <option name="MAIN_CLASS_NAME" value="common.util.CheckUtilsTest" />
-      <option name="METHOD_NAME" value="testIsEmpty" />
+      <option name="METHOD_NAME" value="equals字符串" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckUtilsTest.equalsInteger" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java_common_tools" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="common.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="common.util" />
+      <option name="MAIN_CLASS_NAME" value="common.util.CheckUtilsTest" />
+      <option name="METHOD_NAME" value="equalsInteger" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckUtilsTest.test综合比较" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java_common_tools" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="common.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="common.util" />
+      <option name="MAIN_CLASS_NAME" value="common.util.CheckUtilsTest" />
+      <option name="METHOD_NAME" value="test综合比较" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestString.test大小写转换" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java_common_tools" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testNet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testNet" />
+      <option name="MAIN_CLASS_NAME" value="testNet.TestString" />
+      <option name="METHOD_NAME" value="test大小写转换" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -193,8 +349,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.CheckUtilsTest.testIsEmpty" />
-        <item itemvalue="TestNG.CheckUtilsTest.testIsAnyEmpty" />
+        <item itemvalue="TestNG.CheckUtilsTest.equals字符串" />
+        <item itemvalue="TestNG.CheckUtilsTest.equalsInteger" />
+        <item itemvalue="TestNG.CheckUtilsTest.test综合比较" />
+        <item itemvalue="TestNG.CheckUtilsTest.equals" />
+        <item itemvalue="TestNG.TestString.test大小写转换" />
       </list>
     </recent_temporary>
   </component>
@@ -208,86 +367,86 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576031330819</updated>
-      <workItem from="1576031334386" duration="9196000" />
+      <workItem from="1576031334386" duration="14593000" />
+      <workItem from="1576111500189" duration="10779000" />
+      <workItem from="1576198714225" duration="10780000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CheckUtilsTest_testIsAnyEmpty - 2019.12.11 at 11h 05m 56s.xml">
-      <configuration name="CheckUtilsTest.testIsAnyEmpty" configurationId="TestNG" />
+    <history-entry file="TestString_testFind - 2019.12.13 at 10h 05m 33s.xml">
+      <configuration name="TestString.testFind" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CheckUtilsTest_testIsAnyEmpty - 2019.12.11 at 11h 08m 23s.xml">
-      <configuration name="CheckUtilsTest.testIsAnyEmpty" configurationId="TestNG" />
+    <history-entry file="TestString_test替换 - 2019.12.13 at 10h 09m 44s.xml">
+      <configuration name="TestString.test替换" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CheckUtilsTest_testIsAnyEmpty - 2019.12.11 at 11h 12m 46s.xml">
-      <configuration name="CheckUtilsTest.testIsAnyEmpty" configurationId="TestNG" />
+    <history-entry file="TestString_test替换 - 2019.12.13 at 10h 10m 29s.xml">
+      <configuration name="TestString.test替换" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CheckUtilsTest_testIsEmpty - 2019.12.11 at 11h 27m 57s.xml">
-      <configuration name="CheckUtilsTest.testIsEmpty" configurationId="TestNG" />
+    <history-entry file="TestString_test去空格 - 2019.12.13 at 10h 12m 59s.xml">
+      <configuration name="TestString.test去空格" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CheckUtilsTest_testIsEmpty - 2019.12.11 at 11h 29m 53s.xml">
-      <configuration name="CheckUtilsTest.testIsEmpty" configurationId="TestNG" />
+    <history-entry file="TestString_test大小写转换 - 2019.12.13 at 10h 23m 09s.xml">
+      <configuration name="TestString.test大小写转换" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CheckUtilsTest_equals - 2019.12.13 at 11h 21m 39s.xml">
+      <configuration name="CheckUtilsTest.equals" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CheckUtilsTest_equalsInteger - 2019.12.13 at 11h 34m 10s.xml">
+      <configuration name="CheckUtilsTest.equalsInteger" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CheckUtilsTest_equalsInteger - 2019.12.13 at 14h 21m 27s.xml">
+      <configuration name="CheckUtilsTest.equalsInteger" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CheckUtilsTest_equals字符串 - 2019.12.13 at 14h 21m 49s.xml">
+      <configuration name="CheckUtilsTest.equals字符串" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CheckUtilsTest_test综合比较 - 2019.12.13 at 14h 23m 15s.xml">
+      <configuration name="CheckUtilsTest.test综合比较" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9196000" />
+    <option name="totallyTimeSpent" value="36152000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.77272725" visible="true" weight="0.20833333" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.06921676" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.106617644" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.22727273" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.30418944" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3697632" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4209559" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.37132353" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.3290441" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.46139705" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/net/ServerSocket.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/common/util/CheckUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/common/util/CheckUtilsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="63">
+          <caret line="126" column="32" selection-start-line="126" selection-start-column="28" selection-end-line="126" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -301,12 +460,149 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/net/Socket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4853">
+          <caret line="242" column="29" selection-start-line="242" selection-start-column="18" selection-end-line="242" selection-end-column="29" />
+          <folding>
+            <element signature="e#1829#1830#0" expanded="true" />
+            <element signature="e#1854#1855#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="41" column="39" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="984" column="41" selection-start-line="984" selection-start-column="28" selection-end-line="984" selection-end-column="41" />
+          <folding>
+            <element signature="e#58481#58482#0" expanded="true" />
+            <element signature="e#58518#58519#0" expanded="true" />
+            <element signature="e#104675#104676#0" expanded="true" />
+            <element signature="e#104730#104731#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testNet/TestString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="79" column="46" lean-forward="true" selection-start-line="79" selection-start-column="46" selection-end-line="79" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testNet/TestInet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="171" column="9" lean-forward="true" selection-start-line="171" selection-start-column="9" selection-end-line="171" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/common/util/CheckUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="68" column="28" lean-forward="true" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/common/util/CheckUtilsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="44" column="3" selection-start-line="44" selection-start-column="3" selection-end-line="44" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>java_common_tools</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

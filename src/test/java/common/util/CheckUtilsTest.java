@@ -21,4 +21,26 @@ public class CheckUtilsTest {
         Assert.assertEquals(CheckUtils.isEmpty( arr),false);
         Assert.assertEquals(CheckUtils.isEmpty(null),true);
     }
+
+    @Test
+    public void equals字符串(){
+        String str1 = null;
+        String str2 = null;
+        Assert.assertEquals(CheckUtils.equals("hello","hello"),true);
+        Assert.assertEquals(CheckUtils.equals("hello","world"),false);
+        Assert.assertEquals(CheckUtils.equals(null,"world"),false);
+        Assert.assertEquals(CheckUtils.equals(str1,str2),false);
+    }
+
+    @Test
+    public void equalsInteger(){
+        Integer int1 = null;
+        Integer int2 = null;
+        Assert.assertEquals(CheckUtils.equals(1,1),true);
+        Assert.assertEquals(CheckUtils.equals(1,2),false);
+        Assert.assertEquals(CheckUtils.equals(int1,2),false);
+        Assert.assertEquals(CheckUtils.equals(int1,int2),false);
+    }
+
+
 }
